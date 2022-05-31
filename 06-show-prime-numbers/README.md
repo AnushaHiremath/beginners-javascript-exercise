@@ -22,5 +22,5 @@ Write a function which show or print Prime Number upto provided range
     }
   }
 } 
-showPrimeNumbers(20); 
+console.log(showPrimeNumbers(20)); 
 ```

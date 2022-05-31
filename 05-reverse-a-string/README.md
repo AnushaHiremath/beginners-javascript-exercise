@@ -11,7 +11,7 @@ for(let i = 0; i < str.length; i++){
     reversedString = str.charAt(i) + reversedString;
 }
 
-reversedString;                              
+console.log(reversedString);                              
 ```
 
 References:
